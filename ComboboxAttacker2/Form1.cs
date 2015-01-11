@@ -36,7 +36,7 @@ namespace ComboboxAttacker2
             skip2 = false;
             InitializeComponent();
 
-            System.Runtime.InteropServices.UCOMIConnectionPointContainer icpc = (System.Runtime.InteropServices.UCOMIConnectionPointContainer)axWebBrowser1.GetOcx(); // ADDed
+            System.Runtime.InteropServices.UCOMIConnectionPointContainer icpc = (System.Runtime.InteropServices.UCOMIConnectionPointContainer)axWebBrowser1.GetOcx();
 
             Guid g = typeof(DWebBrowserEvents).GUID;
             icpc.FindConnectionPoint(ref g, out icp);

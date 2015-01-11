@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComboboxAttacker2", "ComboboxAttacker2\ComboboxAttacker2.csproj", "{35EE1487-E755-48E6-9B15-CE890A87CC63}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ComboboxAttackerSetup2", "ComboboxAttackerSetup2\ComboboxAttackerSetup2.vdproj", "{6A2E8862-EB98-4201-AAFC-2BFE46E958B2}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
