@@ -1,0 +1,1 @@
+ComboBox Attacker is as web browesr that allows you to modify your post string before submitting a form.  This is useful for both testing and hacking; see StopUnsafeSQL.com for more details about its use.
